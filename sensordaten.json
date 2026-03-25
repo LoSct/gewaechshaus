@@ -1,0 +1,10 @@
+{
+    "zeit": "10:18:35",
+    "temperatur": 26.0,
+    "luftfeuchtigkeit": 50.5,
+    "boden_nass": true,
+    "aktionen": [
+        "Fan AUS (Temperatur 26.0\u00b0C ist OK)",
+        "Pumpe AUS (Boden feucht genug)"
+    ]
+}
