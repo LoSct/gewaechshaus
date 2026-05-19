@@ -1,0 +1,11 @@
+# Smart Greenhouse — Python Abhängigkeiten
+# Installation: pip install -r requirements.txt --break-system-packages
+
+# Serielle Kommunikation mit ESP32
+pyserial>=3.5
+
+# GPIO-Steuerung (nur auf Raspberry Pi verfügbar)
+RPi.GPIO>=0.7.1
+
+# DHT11/DHT22 Sensor (falls direkt am Pi angeschlossen, nicht über ESP32)
+# adafruit-circuitpython-dht>=3.7
