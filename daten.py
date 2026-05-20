@@ -20,7 +20,7 @@ from sensoren import Messwerte
 
 log = logging.getLogger("gewaechshaus.daten")
 
-DATEN_DATEI  = Path(__file__).parent.parent / "data" / "sensordaten.json"
+DATEN_DATEI  = Path(__file__).parent / "data" / "sensordaten.json"
 MAX_EINTRAEGE = 500  # Maximale Anzahl gespeicherter Zyklen (~41 min bei 5s Intervall)
 
 

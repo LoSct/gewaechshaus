@@ -31,7 +31,7 @@ def gpio_initialisieren() -> None:
     Muss einmal beim Programmstart aufgerufen werden.
     Startet mit beiden Aktoren AUS (sicherer Ausgangszustand).
     """
-    import RPi.GPIO as GPIO
+    import lgpio as GPIO
     GPIO.setmode(GPIO.BCM)
     GPIO.setwarnings(False)
 

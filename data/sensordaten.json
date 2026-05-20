@@ -1,0 +1,746 @@
+{
+    "aktuell": {
+        "zeit": "18:55:40",
+        "datum": "2026-05-19",
+        "timestamp": "2026-05-19T18:55:40.328128",
+        "temperatur": 20.1,
+        "luftfeuchtigkeit": 79.4,
+        "boden_nass": false,
+        "boden_roh": 3540,
+        "aktionen": [
+            "Lüfter AUS (Temp 20.1°C ist OK)",
+            "Pumpe AN für 3s (Boden trocken, Rohwert: 3540)"
+        ],
+        "mock_modus": true
+    },
+    "verlauf": [
+        {
+            "zeit": "18:49:52",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:49:52.209783",
+            "temperatur": 30.2,
+            "luftfeuchtigkeit": 42.0,
+            "boden_nass": false,
+            "boden_roh": 2574,
+            "aktionen": [
+                "Lüfter AN (Temp 30.2°C > 28.0°C)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 2574)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:50:00",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:50:00.211142",
+            "temperatur": 26.5,
+            "luftfeuchtigkeit": 79.0,
+            "boden_nass": false,
+            "boden_roh": 3882,
+            "aktionen": [
+                "Lüfter AUS (Temp 26.5°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3882)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:50:08",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:50:08.212545",
+            "temperatur": 20.3,
+            "luftfeuchtigkeit": 84.1,
+            "boden_nass": false,
+            "boden_roh": 2423,
+            "aktionen": [
+                "Lüfter AUS (Temp 20.3°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 2423)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:50:13",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:50:13.213690",
+            "temperatur": 22.1,
+            "luftfeuchtigkeit": 79.6,
+            "boden_nass": true,
+            "boden_roh": 557,
+            "aktionen": [
+                "Lüfter AUS (Temp 22.1°C ist OK)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 557)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:50:21",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:50:21.215180",
+            "temperatur": 17.9,
+            "luftfeuchtigkeit": 51.0,
+            "boden_nass": false,
+            "boden_roh": 3036,
+            "aktionen": [
+                "Lüfter AUS (Temp 17.9°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3036)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:50:29",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:50:29.216661",
+            "temperatur": 19.0,
+            "luftfeuchtigkeit": 56.5,
+            "boden_nass": false,
+            "boden_roh": 2697,
+            "aktionen": [
+                "Lüfter AUS (Temp 19.0°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 2697)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:50:34",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:50:34.218036",
+            "temperatur": 19.7,
+            "luftfeuchtigkeit": 59.1,
+            "boden_nass": true,
+            "boden_roh": 1099,
+            "aktionen": [
+                "Lüfter AUS (Temp 19.7°C ist OK)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 1099)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:50:39",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:50:39.219448",
+            "temperatur": 26.5,
+            "luftfeuchtigkeit": 63.6,
+            "boden_nass": true,
+            "boden_roh": 956,
+            "aktionen": [
+                "Lüfter AUS (Temp 26.5°C ist OK)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 956)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:50:47",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:50:47.221076",
+            "temperatur": 19.0,
+            "luftfeuchtigkeit": 75.2,
+            "boden_nass": false,
+            "boden_roh": 2091,
+            "aktionen": [
+                "Lüfter AUS (Temp 19.0°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 2091)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:50:55",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:50:55.222663",
+            "temperatur": 15.7,
+            "luftfeuchtigkeit": 58.5,
+            "boden_nass": false,
+            "boden_roh": 3999,
+            "aktionen": [
+                "Lüfter AUS (Temp 15.7°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3999)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:51:03",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:51:03.224344",
+            "temperatur": 23.5,
+            "luftfeuchtigkeit": 49.0,
+            "boden_nass": false,
+            "boden_roh": 3115,
+            "aktionen": [
+                "Lüfter AUS (Temp 23.5°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3115)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:51:11",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:51:11.226217",
+            "temperatur": 24.6,
+            "luftfeuchtigkeit": 50.8,
+            "boden_nass": false,
+            "boden_roh": 2601,
+            "aktionen": [
+                "Lüfter AUS (Temp 24.6°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 2601)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:51:16",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:51:16.227725",
+            "temperatur": 30.2,
+            "luftfeuchtigkeit": 68.4,
+            "boden_nass": true,
+            "boden_roh": 807,
+            "aktionen": [
+                "Lüfter AN (Temp 30.2°C > 28.0°C)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 807)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:51:24",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:51:24.229461",
+            "temperatur": 23.5,
+            "luftfeuchtigkeit": 40.5,
+            "boden_nass": false,
+            "boden_roh": 2413,
+            "aktionen": [
+                "Lüfter AUS (Temp 23.5°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 2413)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:51:29",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:51:29.230865",
+            "temperatur": 26.2,
+            "luftfeuchtigkeit": 62.1,
+            "boden_nass": true,
+            "boden_roh": 522,
+            "aktionen": [
+                "Lüfter AUS (Temp 26.2°C ist OK)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 522)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:51:37",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:51:37.232737",
+            "temperatur": 17.8,
+            "luftfeuchtigkeit": 63.7,
+            "boden_nass": false,
+            "boden_roh": 3274,
+            "aktionen": [
+                "Lüfter AUS (Temp 17.8°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3274)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:51:45",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:51:45.234594",
+            "temperatur": 17.3,
+            "luftfeuchtigkeit": 47.6,
+            "boden_nass": false,
+            "boden_roh": 2140,
+            "aktionen": [
+                "Lüfter AUS (Temp 17.3°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 2140)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:51:50",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:51:50.236239",
+            "temperatur": 27.2,
+            "luftfeuchtigkeit": 67.8,
+            "boden_nass": true,
+            "boden_roh": 744,
+            "aktionen": [
+                "Lüfter AUS (Temp 27.2°C ist OK)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 744)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:51:58",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:51:58.238628",
+            "temperatur": 32.1,
+            "luftfeuchtigkeit": 53.4,
+            "boden_nass": false,
+            "boden_roh": 3439,
+            "aktionen": [
+                "Lüfter AN (Temp 32.1°C > 28.0°C)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3439)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:52:03",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:52:03.240343",
+            "temperatur": 13.9,
+            "luftfeuchtigkeit": 64.9,
+            "boden_nass": true,
+            "boden_roh": 1956,
+            "aktionen": [
+                "Lüfter AUS (Temp 13.9°C < 15.0°C — zu kalt)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 1956)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:52:11",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:52:11.242263",
+            "temperatur": 31.8,
+            "luftfeuchtigkeit": 70.9,
+            "boden_nass": false,
+            "boden_roh": 3974,
+            "aktionen": [
+                "Lüfter AN (Temp 31.8°C > 28.0°C)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3974)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:52:19",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:52:19.244482",
+            "temperatur": 33.1,
+            "luftfeuchtigkeit": 66.0,
+            "boden_nass": false,
+            "boden_roh": 2091,
+            "aktionen": [
+                "Lüfter AN (Temp 33.1°C > 28.0°C)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 2091)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:52:24",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:52:24.247783",
+            "temperatur": 27.0,
+            "luftfeuchtigkeit": 40.7,
+            "boden_nass": true,
+            "boden_roh": 1366,
+            "aktionen": [
+                "Lüfter AUS (Temp 27.0°C ist OK)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 1366)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:52:32",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:52:32.249874",
+            "temperatur": 25.9,
+            "luftfeuchtigkeit": 52.0,
+            "boden_nass": false,
+            "boden_roh": 2116,
+            "aktionen": [
+                "Lüfter AUS (Temp 25.9°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 2116)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:52:40",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:52:40.251977",
+            "temperatur": 29.0,
+            "luftfeuchtigkeit": 52.2,
+            "boden_nass": false,
+            "boden_roh": 2567,
+            "aktionen": [
+                "Lüfter AN (Temp 29.0°C > 28.0°C)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 2567)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:52:48",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:52:48.254165",
+            "temperatur": 32.0,
+            "luftfeuchtigkeit": 40.5,
+            "boden_nass": false,
+            "boden_roh": 2715,
+            "aktionen": [
+                "Lüfter AN (Temp 32.0°C > 28.0°C)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 2715)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:52:53",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:52:53.256132",
+            "temperatur": 16.7,
+            "luftfeuchtigkeit": 78.8,
+            "boden_nass": true,
+            "boden_roh": 1129,
+            "aktionen": [
+                "Lüfter AUS (Temp 16.7°C ist OK)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 1129)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:52:58",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:52:58.257995",
+            "temperatur": 14.4,
+            "luftfeuchtigkeit": 70.7,
+            "boden_nass": true,
+            "boden_roh": 890,
+            "aktionen": [
+                "Lüfter AUS (Temp 14.4°C < 15.0°C — zu kalt)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 890)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:53:06",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:53:06.260402",
+            "temperatur": 18.2,
+            "luftfeuchtigkeit": 44.9,
+            "boden_nass": false,
+            "boden_roh": 3665,
+            "aktionen": [
+                "Lüfter AUS (Temp 18.2°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3665)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:53:11",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:53:11.262237",
+            "temperatur": 34.4,
+            "luftfeuchtigkeit": 68.1,
+            "boden_nass": true,
+            "boden_roh": 1170,
+            "aktionen": [
+                "Lüfter AN (Temp 34.4°C > 28.0°C)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 1170)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:53:16",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:53:16.264071",
+            "temperatur": 21.4,
+            "luftfeuchtigkeit": 78.8,
+            "boden_nass": true,
+            "boden_roh": 691,
+            "aktionen": [
+                "Lüfter AUS (Temp 21.4°C ist OK)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 691)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:53:24",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:53:24.266126",
+            "temperatur": 23.9,
+            "luftfeuchtigkeit": 83.6,
+            "boden_nass": false,
+            "boden_roh": 3305,
+            "aktionen": [
+                "Lüfter AUS (Temp 23.9°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3305)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:53:32",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:53:32.268378",
+            "temperatur": 30.1,
+            "luftfeuchtigkeit": 43.5,
+            "boden_nass": false,
+            "boden_roh": 3645,
+            "aktionen": [
+                "Lüfter AN (Temp 30.1°C > 28.0°C)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3645)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:53:37",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:53:37.270418",
+            "temperatur": 26.6,
+            "luftfeuchtigkeit": 77.1,
+            "boden_nass": true,
+            "boden_roh": 1323,
+            "aktionen": [
+                "Lüfter AUS (Temp 26.6°C ist OK)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 1323)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:53:42",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:53:42.272317",
+            "temperatur": 19.8,
+            "luftfeuchtigkeit": 84.7,
+            "boden_nass": true,
+            "boden_roh": 1005,
+            "aktionen": [
+                "Lüfter AUS (Temp 19.8°C ist OK)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 1005)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:53:47",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:53:47.274234",
+            "temperatur": 29.4,
+            "luftfeuchtigkeit": 58.7,
+            "boden_nass": true,
+            "boden_roh": 607,
+            "aktionen": [
+                "Lüfter AN (Temp 29.4°C > 28.0°C)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 607)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:53:52",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:53:52.276322",
+            "temperatur": 20.6,
+            "luftfeuchtigkeit": 75.8,
+            "boden_nass": true,
+            "boden_roh": 1075,
+            "aktionen": [
+                "Lüfter AUS (Temp 20.6°C ist OK)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 1075)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:53:57",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:53:57.278924",
+            "temperatur": 34.7,
+            "luftfeuchtigkeit": 43.4,
+            "boden_nass": true,
+            "boden_roh": 787,
+            "aktionen": [
+                "Lüfter AN (Temp 34.7°C > 28.0°C)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 787)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:54:05",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:54:05.281313",
+            "temperatur": 12.9,
+            "luftfeuchtigkeit": 82.0,
+            "boden_nass": false,
+            "boden_roh": 3919,
+            "aktionen": [
+                "Lüfter AUS (Temp 12.9°C < 15.0°C — zu kalt)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3919)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:54:13",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:54:13.283688",
+            "temperatur": 33.2,
+            "luftfeuchtigkeit": 43.6,
+            "boden_nass": false,
+            "boden_roh": 2203,
+            "aktionen": [
+                "Lüfter AN (Temp 33.2°C > 28.0°C)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 2203)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:54:21",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:54:21.286136",
+            "temperatur": 33.2,
+            "luftfeuchtigkeit": 67.6,
+            "boden_nass": false,
+            "boden_roh": 3709,
+            "aktionen": [
+                "Lüfter AN (Temp 33.2°C > 28.0°C)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3709)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:54:29",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:54:29.288706",
+            "temperatur": 33.6,
+            "luftfeuchtigkeit": 84.8,
+            "boden_nass": false,
+            "boden_roh": 3183,
+            "aktionen": [
+                "Lüfter AN (Temp 33.6°C > 28.0°C)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3183)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:54:37",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:54:37.291287",
+            "temperatur": 17.6,
+            "luftfeuchtigkeit": 46.3,
+            "boden_nass": false,
+            "boden_roh": 2348,
+            "aktionen": [
+                "Lüfter AUS (Temp 17.6°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 2348)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:54:45",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:54:45.293976",
+            "temperatur": 29.6,
+            "luftfeuchtigkeit": 75.9,
+            "boden_nass": false,
+            "boden_roh": 3480,
+            "aktionen": [
+                "Lüfter AN (Temp 29.6°C > 28.0°C)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3480)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:54:50",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:54:50.296110",
+            "temperatur": 29.0,
+            "luftfeuchtigkeit": 74.8,
+            "boden_nass": true,
+            "boden_roh": 508,
+            "aktionen": [
+                "Lüfter AN (Temp 29.0°C > 28.0°C)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 508)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:54:55",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:54:55.298413",
+            "temperatur": 16.8,
+            "luftfeuchtigkeit": 57.1,
+            "boden_nass": true,
+            "boden_roh": 669,
+            "aktionen": [
+                "Lüfter AUS (Temp 16.8°C ist OK)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 669)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:55:00",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:55:00.300642",
+            "temperatur": 26.5,
+            "luftfeuchtigkeit": 42.9,
+            "boden_nass": true,
+            "boden_roh": 1536,
+            "aktionen": [
+                "Lüfter AUS (Temp 26.5°C ist OK)",
+                "Pumpe AUS (Boden feucht genug, Rohwert: 1536)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:55:08",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:55:08.303629",
+            "temperatur": 19.7,
+            "luftfeuchtigkeit": 71.3,
+            "boden_nass": false,
+            "boden_roh": 3701,
+            "aktionen": [
+                "Lüfter AUS (Temp 19.7°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3701)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:55:16",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:55:16.306436",
+            "temperatur": 28.9,
+            "luftfeuchtigkeit": 83.5,
+            "boden_nass": false,
+            "boden_roh": 2882,
+            "aktionen": [
+                "Lüfter AN (Temp 28.9°C > 28.0°C)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 2882)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:55:24",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:55:24.309098",
+            "temperatur": 25.8,
+            "luftfeuchtigkeit": 43.4,
+            "boden_nass": false,
+            "boden_roh": 3878,
+            "aktionen": [
+                "Lüfter AUS (Temp 25.8°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3878)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:55:32",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:55:32.318369",
+            "temperatur": 28.7,
+            "luftfeuchtigkeit": 40.6,
+            "boden_nass": false,
+            "boden_roh": 3352,
+            "aktionen": [
+                "Lüfter AN (Temp 28.7°C > 28.0°C)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3352)"
+            ],
+            "mock_modus": true
+        },
+        {
+            "zeit": "18:55:40",
+            "datum": "2026-05-19",
+            "timestamp": "2026-05-19T18:55:40.328128",
+            "temperatur": 20.1,
+            "luftfeuchtigkeit": 79.4,
+            "boden_nass": false,
+            "boden_roh": 3540,
+            "aktionen": [
+                "Lüfter AUS (Temp 20.1°C ist OK)",
+                "Pumpe AN für 3s (Boden trocken, Rohwert: 3540)"
+            ],
+            "mock_modus": true
+        }
+    ]
+}

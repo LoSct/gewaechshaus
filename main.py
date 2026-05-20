@@ -16,7 +16,7 @@ from pathlib import Path
 # KONFIGURATION — Hier alle Parameter anpassen
 # ============================================================
 
-MOCK_MODE      = False    # True = Testbetrieb | False = Echter Pi + ESP32
+MOCK_MODE      = True    # True = Testbetrieb | False = Echter Pi + ESP32
 
 TEMP_ZU_HOCH   = 28.0   # °C → Lüfter AN
 TEMP_ZU_KALT   = 15.0   # °C → Lüfter AUS (zu kalt)
